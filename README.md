@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ Nasrullah Gullac
-### **Full-Stack Web & Mobile Developer | IT Systems & Interactive Web**
+### **Full-Stack Web & Mobile Developer | Interactive Systems & Simulation Engines**
 📍 Antalya, Turkey • 📞 +90 544 179 8660 • ✉️ [nasrullahgll@gmail.com](mailto:nasrullahgll@gmail.com) • 💻 [github.com/nastrobot](https://github.com/nastrobot)
 
 <br/>
@@ -11,7 +11,7 @@
 
 ---
 
-### *"Building robust full-stack web platforms, responsive mobile applications, and innovative interactive experiences."*
+### *"Engineering robust commercial web architectures, cross-platform mobile apps, and high-performance interactive physics engines."*
 
 </div>
 
@@ -48,29 +48,27 @@
 
 <br/>
 
-## 🕹️ Interactive Web & Mobile Game Showcases
+## 🕹️ Interactive Web & Physics Showcases (Playable Demos)
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>🌌 <a href="https://nastrobot.github.io/gravity-sling-playable/">Singularity: Orbital Gravity Sling</a></h3>
-      <p>
-        An unconventional physics-driven web game simulating <b>Newtonian orbital mechanics</b> and spacetime grid curvature. Tap to manifest gravity wells and slingshot your quantum probe into hyperspace.
-      </p>
-      <p>
-        <a href="https://nastrobot.github.io/gravity-sling-playable/"><b>▶ Play Directly in Browser</b></a>
-      </p>
-      <code>Orbital Physics</code> <code>Spacetime Grid</code> <code>Web Audio</code>
+    <td width="33%">
+      <h3>🔬 <a href="https://nastrobot.github.io/prism-optics-playable/">PRISM: Ray-Tracing Lab</a></h3>
+      <p>Vector optical physics engine. Simulates photon ray reflection, precision angle calculation ($\theta_1 = \theta_2$), and multi-bounce sensor circuits.</p>
+      <p><a href="https://nastrobot.github.io/prism-optics-playable/"><b>▶ Play Optical Lab</b></a></p>
+      <code>Vector Optics</code> <code>Ray-Tracing</code> <code>Snell's Law</code>
     </td>
-    <td width="50%">
-      <h3>🚀 <a href="https://nastrobot.github.io/space-runner-playable/">Cyber Runner 2088 (Arcade Jet)</a></h3>
-      <p>
-        High-octane portrait-first mobile flight game. Features full 4-axis flight mechanics (WASD/Touch-Drag), afterburner boosts, 3-tier energy shields, hazard mines, and zero-asset instant loading.
-      </p>
-      <p>
-        <a href="https://nastrobot.github.io/space-runner-playable/"><b>▶ Play Directly in Browser</b></a>
-      </p>
-      <code>HTML5 Canvas 2D</code> <code>60 FPS Arcade</code> <code>Mobile-First</code>
+    <td width="33%">
+      <h3>🌌 <a href="https://nastrobot.github.io/gravity-sling-playable/">Orbita: Zen Slingshot</a></h3>
+      <p>Kinetic orbital physics simulator. Tap and hold to generate magnetic gravity wells, curve marble trajectories, and sling through rings.</p>
+      <p><a href="https://nastrobot.github.io/gravity-sling-playable/"><b>▶ Play Zen Physics</b></a></p>
+      <code>Newtonian Gravity</code> <code>Orbital Trajectory</code> <code>Web Audio</code>
+    </td>
+    <td width="33%">
+      <h3>🚀 <a href="https://nastrobot.github.io/space-runner-playable/">Cyber Runner 2088</a></h3>
+      <p>Fast-paced 4-way arcade starfighter. Locked 60 FPS mobile canvas loop, energy shields, afterburner boost, and touch controls.</p>
+      <p><a href="https://nastrobot.github.io/space-runner-playable/"><b>▶ Play Arcade Jet</b></a></p>
+      <code>HTML5 Canvas 2D</code> <code>60 FPS Action</code> <code>Mobile-First</code>
     </td>
   </tr>
 </table>
@@ -86,7 +84,7 @@
 | **Backend & Databases** | `C#` `ASP.NET Core` `SQL Server` `MySQL` `RESTful APIs` |
 | **Frontend & Web** | `JavaScript (ES6+)` `HTML5` `CSS3` `Bootstrap` `Responsive UI` `WordPress` |
 | **Mobile Development** | `Flutter` `Dart` `Cross-Platform (iOS & Android)` |
-| **Interactive & Games** | `HTML5 Canvas 2D` `Orbital Physics Simulation` `Web Audio API` `Phaser / Three.js Basics` |
+| **Physics & Interactive Engines** | `Vector Raycasting / Ray-Tracing` `Orbital Gravity Math` `HTML5 Canvas 2D` `Web Audio API` |
 | **IT & Infrastructure** | `Web Servers (IIS / Apache)` `Domain & DNS Management` `SSL/HTTPS` `LAN / Networking` `Technical Support` |
 
 </div>
