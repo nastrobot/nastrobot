@@ -11,7 +11,7 @@
 
 ---
 
-### *"Building robust, scalable web platforms, full-stack applications, and responsive mobile experiences."*
+### *"Building robust full-stack web platforms, responsive mobile applications, and innovative interactive experiences."*
 
 </div>
 
@@ -48,22 +48,29 @@
 
 <br/>
 
-## 🕹️ Interactive Web & Mobile Game Demo
+## 🕹️ Interactive Web & Mobile Game Showcases
 
 <table>
   <tr>
-    <td width="60%">
-      <h3>🎮 <a href="https://nastrobot.github.io/space-runner-playable/">Cyber Runner 2088 (Playable HTML5 Demo)</a></h3>
+    <td width="50%">
+      <h3>🌌 <a href="https://nastrobot.github.io/gravity-sling-playable/">Singularity: Orbital Gravity Sling</a></h3>
       <p>
-        A portrait-first HTML5 Canvas 2D mini game demo built from scratch with zero third-party dependencies. Features 60 FPS mobile touch controls, procedural particles, and Web Audio API synthesized sound effects.
+        An unconventional physics-driven web game simulating <b>Newtonian orbital mechanics</b> and spacetime grid curvature. Tap to manifest gravity wells and slingshot your quantum probe into hyperspace.
       </p>
-      <a href="https://nastrobot.github.io/space-runner-playable/"><b>▶ Play Directly in Browser</b></a>
+      <p>
+        <a href="https://nastrobot.github.io/gravity-sling-playable/"><b>▶ Play Directly in Browser</b></a>
+      </p>
+      <code>Orbital Physics</code> <code>Spacetime Grid</code> <code>Web Audio</code>
     </td>
-    <td width="40%" align="center">
-      <code>HTML5 Canvas 2D</code><br/>
-      <code>Vanilla JavaScript</code><br/>
-      <code>Web Audio API</code><br/>
-      <code>Instant Load (&lt;1s)</code>
+    <td width="50%">
+      <h3>🚀 <a href="https://nastrobot.github.io/space-runner-playable/">Cyber Runner 2088 (Arcade Jet)</a></h3>
+      <p>
+        High-octane portrait-first mobile flight game. Features full 4-axis flight mechanics (WASD/Touch-Drag), afterburner boosts, 3-tier energy shields, hazard mines, and zero-asset instant loading.
+      </p>
+      <p>
+        <a href="https://nastrobot.github.io/space-runner-playable/"><b>▶ Play Directly in Browser</b></a>
+      </p>
+      <code>HTML5 Canvas 2D</code> <code>60 FPS Arcade</code> <code>Mobile-First</code>
     </td>
   </tr>
 </table>
@@ -79,7 +86,7 @@
 | **Backend & Databases** | `C#` `ASP.NET Core` `SQL Server` `MySQL` `RESTful APIs` |
 | **Frontend & Web** | `JavaScript (ES6+)` `HTML5` `CSS3` `Bootstrap` `Responsive UI` `WordPress` |
 | **Mobile Development** | `Flutter` `Dart` `Cross-Platform (iOS & Android)` |
-| **Interactive & Games** | `HTML5 Canvas 2D` `Web Audio API` `Phaser / Three.js Basics` `Touch Event Handling` |
+| **Interactive & Games** | `HTML5 Canvas 2D` `Orbital Physics Simulation` `Web Audio API` `Phaser / Three.js Basics` |
 | **IT & Infrastructure** | `Web Servers (IIS / Apache)` `Domain & DNS Management` `SSL/HTTPS` `LAN / Networking` `Technical Support` |
 
 </div>
