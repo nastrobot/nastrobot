@@ -1,60 +1,86 @@
 <div align="center">
 
-# ⚡ Nasrullah Güllaç (Ali)
-### **Mobile Game & Web Developer | Interactive Frontend & AI Systems**
-📍 Antalya, Turkey (Remote / EMEA) • ✉️ [nasrullahgll@gmail.com](mailto:nasrullahgll@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/ali-gullac/)
+# ⚡ Nasrullah Gullac
+### **Full-Stack Web & Mobile Developer | IT Systems & Interactive Web**
+📍 Antalya, Turkey • 📞 +90 544 179 8660 • ✉️ [nasrullahgll@gmail.com](mailto:nasrullahgll@gmail.com) • 💻 [github.com/nastrobot](https://github.com/nastrobot)
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/nastrobot?label=Followers&style=for-the-badge&color=00f0ff)](https://github.com/nastrobot)
-[![Profile Views](https://komarev.com/ghpvc/?username=nastrobot&color=ff0077&style=for-the-badge)](https://github.com/nastrobot)
+[![GitHub followers](https://img.shields.io/github/followers/nastrobot?label=Followers&style=for-the-badge&color=2563eb)](https://github.com/nastrobot)
+[![Profile Views](https://komarev.com/ghpvc/?username=nastrobot&color=0ea5e9&style=for-the-badge)](https://github.com/nastrobot)
 
 ---
 
-### *"Building ultra-fast, high-converting interactive experiences & games that players love."*
+### *"Building robust, scalable web platforms, full-stack applications, and responsive mobile experiences."*
 
 </div>
 
 <br/>
 
-## 🎮 Featured Interactive Showcase
+## 🌐 Live Commercial Projects & Platforms
 
 <table>
   <tr>
-    <td width="55%">
-      <h3>🕹️ <a href="https://nastrobot.github.io/space-runner-playable/">Cyber Runner 2088 (Playable Mobile Demo)</a></h3>
-      <p>
-        A fast-paced, portrait-first HTML5 playable mobile game demo developed for instant browser execution (&lt;1s load time) and App Store conversion loops.
-      </p>
-      <ul>
-        <li><b>Stack:</b> HTML5 Canvas, Vanilla JavaScript (ES6+), Web Audio API</li>
-        <li><b>Features:</b> 60 FPS mobile touch controls, procedural particles, screenshake feedback, interactive end CTA</li>
-        <li><b>Live Play:</b> <a href="https://nastrobot.github.io/space-runner-playable/"><b>▶ Play Directly in Browser</b></a></li>
-      </ul>
+    <td width="50%">
+      <h3>💼 <a href="https://teklifveronline.io">teklifveronline.io</a></h3>
+      <p>Marketplace & quoting web platform with cross-platform <b>Flutter</b> iOS & Android mobile applications.</p>
+      <code>Web Marketplace</code> <code>Flutter (iOS/Android)</code> <code>REST API</code>
     </td>
-    <td width="45%" align="center">
-      <img src="https://img.shields.io/badge/PLAYABLE%20DEMO-LIVE%2060%20FPS-00f0ff?style=for-the-badge&logo=html5" alt="Live Demo" />
-      <br/><br/>
-      <code>Touch & Drag Steering</code><br/>
-      <code>Zero External Assets</code><br/>
-      <code>Instant Load</code>
+    <td width="50%">
+      <h3>🚐 <a href="https://destinatourism.com">destinatourism.com</a></h3>
+      <p>Corporate travel agency, fleet management, and real-time booking reservation portal.</p>
+      <code>Reservation Engine</code> <code>Web Infrastructure</code> <code>Client Portals</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🏢 <a href="https://pacaj.com">pacaj.com</a></h3>
+      <p>Corporate enterprise web platform architected with <b>ASP.NET Core</b> backend and responsive UI.</p>
+      <code>ASP.NET Core</code> <code>C#</code> <code>SQL Server</code>
+    </td>
+    <td width="50%">
+      <h3>📰 <a href="https://aidubliners.com">aidubliners.com</a></h3>
+      <p>Content platform built on <b>WordPress</b> with custom theme architecture and plugin integrations.</p>
+      <code>WordPress</code> <code>Custom Themes</code> <code>CMS & SEO</code>
     </td>
   </tr>
 </table>
 
 <br/>
 
-## 🛠️ Tech Stack & Superpowers
+## 🕹️ Interactive Web & Mobile Game Demo
+
+<table>
+  <tr>
+    <td width="60%">
+      <h3>🎮 <a href="https://nastrobot.github.io/space-runner-playable/">Cyber Runner 2088 (Playable HTML5 Demo)</a></h3>
+      <p>
+        A portrait-first HTML5 Canvas 2D mini game demo built from scratch with zero third-party dependencies. Features 60 FPS mobile touch controls, procedural particles, and Web Audio API synthesized sound effects.
+      </p>
+      <a href="https://nastrobot.github.io/space-runner-playable/"><b>▶ Play Directly in Browser</b></a>
+    </td>
+    <td width="40%" align="center">
+      <code>HTML5 Canvas 2D</code><br/>
+      <code>Vanilla JavaScript</code><br/>
+      <code>Web Audio API</code><br/>
+      <code>Instant Load (&lt;1s)</code>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🛠️ Technical Stack & Skills
 
 <div align="center">
 
-| Domain | Technologies & Frameworks |
+| Area | Technologies |
 | :--- | :--- |
-| **Game & Interactive Web** | `JavaScript (ES6+)` `HTML5 Canvas 2D` `Three.js` `Phaser` `Web Audio API` `WebGL Basics` |
-| **Mobile & Frontend** | `Flutter` `React` `Responsive Mobile-First UI` `TailwindCSS` `Bootstrap` |
-| **Backend & Cloud** | `C# / ASP.NET Core` `Python (FastAPI)` `SQL Server / SQLite` `REST APIs` |
-| **AI & Rapid Production** | `Cursor` `Claude 3.7 / Sonnet` `ChatGPT Plus` `AI-Assisted Prototyping` |
-| **Web Ops & Infrastructure** | `Cloudflare DNS` `SSL Handshake Optimization` `Google Search Console & SEO` `Hosting / VPS` |
+| **Backend & Databases** | `C#` `ASP.NET Core` `SQL Server` `MySQL` `RESTful APIs` |
+| **Frontend & Web** | `JavaScript (ES6+)` `HTML5` `CSS3` `Bootstrap` `Responsive UI` `WordPress` |
+| **Mobile Development** | `Flutter` `Dart` `Cross-Platform (iOS & Android)` |
+| **Interactive & Games** | `HTML5 Canvas 2D` `Web Audio API` `Phaser / Three.js Basics` `Touch Event Handling` |
+| **IT & Infrastructure** | `Web Servers (IIS / Apache)` `Domain & DNS Management` `SSL/HTTPS` `LAN / Networking` `Technical Support` |
 
 </div>
 
@@ -69,14 +95,8 @@
 
 <br/>
 
-## 🚀 Live Commercial & Web Projects
-- 🌐 **[pacaj.com](https://pacaj.com):** Independent digital platform and web architecture.
-- 🚐 **[destinatourism.com](https://destinatourism.com):** VIP airport transfer booking engine, fleet management and multilingual travel platform.
-- 🚖 **[Driver Reservation Dashboard](https://github.com/nastrobot/Driver-Reservation-Dashboard):** Real-time booking management with asynchronous AJAX dispatching.
-- 📍 **[GPS Tracking API Controller](https://github.com/nastrobot/-csharp-snippets-):** Real-world C# backend module handling GPS coordinate optimization and distance calculations.
-
 ---
 
 <div align="center">
-  <sub>Designed & engineered with modern standards by Nasrullah Güllaç. Open for high-impact contracts & remote engineering roles.</sub>
+  <sub>Engineered by Nasrullah Gullac • Open for Full-Stack, Web & Mobile Engineering opportunities.</sub>
 </div>
