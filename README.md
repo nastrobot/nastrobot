@@ -75,6 +75,14 @@
 
 <br/>
 
+## 🛠️ Featured Backend & Architecture Repositories
+
+- 🚗 **[destina-transfer-core](https://github.com/nastrobot/destina-transfer-core)** — Production ASP.NET Core 8 backend API powering automated transfer quoting, zone matrix calculations (Antalya Airport `AYT` regional hubs), and vehicle fleet dispatch for [destinatourism.com](https://destinatourism.com).
+- 🚖 **[Driver-Reservation-Dashboard](https://github.com/nastrobot/Driver-Reservation-Dashboard)** — Real-time booking management dashboard with asynchronous AJAX dispatching and driver allocation.
+- 📍 **[GPS Coordinate Tracking Controller](https://github.com/nastrobot/-csharp-snippets-)** — Real-world C# backend module handling GPS coordinate optimization, transit delta checks, and distance calculations.
+
+<br/>
+
 ## 🛠️ Technical Stack & Skills
 
 <div align="center">
